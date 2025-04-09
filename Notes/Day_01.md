@@ -1,0 +1,8 @@
+- [ ] What is this challenge?
+- [ ] What we do in this challenge?
+- [ ] choosing the target
+- [ ] setup environment
+- [ ] Initial Steps
+  - [ ] Reading Policy carefully
+  - [ ] Recon
+- [ ] What we do tomorrow
