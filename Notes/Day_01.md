@@ -1,9 +1,12 @@
 - [ ] who am I? What I've done till now?
+---
 - [ ] what is this challenge?
 - [ ] what we do in this challenge?
+---
 - [ ] choosing the target
 - [ ] setup environment
-- [ ] Main Steps
+---
+- [ ] main Steps
   - [ ] reading Policy carefully
-  - [ ] Start recon
+  - [ ] start recon
 - [ ] what we do tomorrow
