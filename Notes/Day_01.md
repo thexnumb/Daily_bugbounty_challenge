@@ -9,4 +9,4 @@
 - [ ] main Steps
   - [ ] reading Policy carefully
   - [ ] start recon
-- [ ] what we do tomorrow.
+- [ ] what we do tomorrow
