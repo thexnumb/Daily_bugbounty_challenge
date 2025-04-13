@@ -1,14 +1,17 @@
-- [ ] who am I? What I've done till now?
+- [x] who am I? What I've done till now?
 	https://github.com/thexnumb
 ---
-- [ ] what is this challenge?
-- [ ] what we do in this challenge?
+- [x] what is this challenge?
+- [x] what we do in this challenge?
 ---
-- [ ] choosing the target
+- [x] choosing the target
 	https://bugcrowd.com/engagements/justeattakeaway
-- [ ] setup environment
+- [x] setup environment
 	https://www.kali.org/get-kali/#kali-virtual-machines
 ---
-- [ ] main Steps
-  - [ ] reading Policy carefully
-  - [ ] start recon
+- [x] main Steps
+  - [x] reading Policy carefully
+	  - [x] notes all the domains and out-of-scope domians
+  - [x] start recon
+	  - [x] trying to use the google (and bing) dorking
+	  - [x] trying to use the wayback machine
