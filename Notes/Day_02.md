@@ -1,0 +1,8 @@
+- install go-lang
+	- `sudo apt install golang-go`
+- install `subfinder`
+	- `go install -v github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest`
+- clone the `thexrecon` to the machine
+	- `git clone https://github.com/thexnumb/thexrecon.git`
+- Continue of recon
+	- execute `thexrecon` to gather subdomains on specific domain
