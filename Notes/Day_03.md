@@ -1,0 +1,3 @@
+- check the `thexrecon` tool
+	- ~~some modification need in the output~~ modified the output of the script
+- do some `Name Resolution` with the `dnsx` tool
