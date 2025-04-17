@@ -1,0 +1,15 @@
+- racap of the yesterday 
+- continue of hunting
+	- S3 Bucket Misconfiguration
+		- It’s an OWASP TOP 10 2021 main topic called [**Security Misconfiguration](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)** which includes many topics such as [**Exposure of Sensitive Information Through Environmental Variables](https://cwe.mitre.org/data/definitions/526.html), [Improper Restriction of XML External Entity Reference](https://cwe.mitre.org/data/definitions/611.html),** etc. 
+		- What is it?
+			- A bucket is **a container for objects stored in Amazon S3**.
+	- FUZZ ~ Directory FUZZ
+		- FFUF
+			- installation
+				- `go install github.com/ffuf/ffuf/v2@latest`
+		- Download the wordlist
+			- `wget https://raw.githubusercontent.com/danielmiessler/SecLists/refs/heads/master/Discovery/Web-Content/raft-small-directories-lowercase.txt`
+		- command for doing directory fuzzing
+			- `ffuf -w raft-small-directories-lowercase.txt -u https://redacted.domain.com/FUZZ -mc all -c -fs 19`
+			- 
