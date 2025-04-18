@@ -1,4 +1,4 @@
-- recap of the yesterday 
+- Recap of the yesterday 
 - continue of hunting
 	- S3 Bucket Misconfiguration
 		- It’s an OWASP TOP 10 2021 main topic called [**Security Misconfiguration](https://owasp.org/Top10/A05_2021-Security_Misconfiguration/)** which includes many topics such as [**Exposure of Sensitive Information Through Environmental Variables](https://cwe.mitre.org/data/definitions/526.html), [Improper Restriction of XML External Entity Reference](https://cwe.mitre.org/data/definitions/611.html),** etc. 

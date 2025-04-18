@@ -1,0 +1,25 @@
+- recap of the yesterday
+- continue of hunting
+	- Recon
+		- dorking
+			- google dorking
+			- bing dorking
+			- wayback machine
+			- ==search github! ==
+		- Subdomain Discovery
+			- subfinder
+			- chaos
+			- abuseipdb
+			- crtsh
+			- Subdomain Center
+			- wayback
+		- Name Resolution
+			- installation
+				- `go install -v github.com/projectdiscovery/dnsx/cmd/dnsx@latest`
+			- command
+				- `dnsx -l subdomains.txt -t 20 -silent`
+		- Service Discovery
+			- installation
+				- `go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest`
+			- command
+				- `cat domain.com.live.txt | httpx -silent -follow-host-redirects -title -status-code -cdn -tech-detect -H "User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" -threads 1 -H "Referer: https://domain.com`
