@@ -1,0 +1,7 @@
+- recap of the yesterday
+- continue the hunting
+	- when we arrive to the output of the `httpx` tool
+		- the order of the status codes to check
+			- `4xx`
+			- `3xx`
+			- `2xx`
