@@ -1,0 +1,10 @@
+- review
+- some little hunting (getting next domain)
+	- dorking
+	- subdomain discovery
+	- name resolution
+	- http service discovery
+- Let's read some write-up
+	- the H1 hactivities
+- hunting
+	- dorking (by filtering mass subdomains)

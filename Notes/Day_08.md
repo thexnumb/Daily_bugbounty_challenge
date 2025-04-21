@@ -1,0 +1,20 @@
+- recap the previous day
+- hunting
+	- arrive to a spring boot that we can use `dirsearch` tool to find the interesting directories!
+		- command
+			- `dirsearch -u https://order-status-api.scoober.com/ -w wordlists/seclists/Discovery/Web-Content/spring-boot.txt -o output`
+	- subdomain discovery --> name resolution --> HTTP service discovery
+	- **Domain Discovery**
+		- **Acquisitions**
+			- https://www.crunchbase.com
+			- https://tracxn.com
+		- Search through the certificates
+			- crtsh
+			- censys
+			- shodan
+			- ...
+		- Dorking
+- Tasks
+	- read write-up
+		- H1 hactivities
+	- 
