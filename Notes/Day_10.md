@@ -1,6 +1,6 @@
 - review
 - hunting
-	- check the output of the all the `httpx` result.
+	- check the outputs of the all the `httpx` results.
 - write-ups and blog post
 	- https://securitycipher.com/
 	- JWT
@@ -11,8 +11,8 @@
 	- when we faced with the Not Found 404 status code we can follow below flow
 		- check for the parameters
 			- specific redirect parameters
-			- look at the broken links with the [**Broken Link Checker**](https://github.com/stevenvachon/broken-link-checker)
-			- look for the internal path with the [**hakrawler**](https://github.com/hakluke/hakrawler)
+		- look at the broken links with the [**Broken Link Checker**](https://github.com/stevenvachon/broken-link-checker)
+		- look for the internal path with the [**hakrawler**](https://github.com/hakluke/hakrawler)
 - for day 11
 	- work with the Broken Link Checker tool
 	- continue the hunting

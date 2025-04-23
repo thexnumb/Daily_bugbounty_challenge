@@ -1,0 +1,7 @@
+- review
+	- work with the Broken Link Checker tool
+		- command
+			- `blc https://domain.com/ -ro`
+	- hakrawler
+		- command
+			- `cat domain.com.live.txt | httpx -silent | hakrawler`
