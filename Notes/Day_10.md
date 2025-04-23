@@ -17,9 +17,3 @@
 	- work with the Broken Link Checker tool
 	- continue the hunting
 
-
-
-
----
-
-Hi there, this is Day 10 of Bug Bounty Challenge until I earn my first bounty! - review - hunting - check the output of the all the `httpx` result. - write-ups and blog post - https ://securitycipher.com/ - JWT - Bypass of the Verification Code - response manipulation - read the blog in [here](https ://firdausmuhammadismail.medium.com/bypass-verification-code-in-reset-password-endpoint-91c2fa97e27b) - when we faced with the Not Found 404 status code we can follow below flow - check for the parameters - specific redirect parameters - look at the broken links with the [**Broken Link Checker**](https ://github.com/stevenvachon/broken-link-checker) - look for the internal path with the [**hakrawler**](https ://github.com/hakluke/hakrawler) - for day 11 - work with the Broken Link Checker tool - continue the hunting #bugbounty #thexnumb #security
