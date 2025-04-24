@@ -1,0 +1,5 @@
+- review
+- hunting
+	- check the outputs of the `blc` and the `hakrawler` tool
+- off-topic
+	- talk about the discord server.
