@@ -1,0 +1,19 @@
+- talk about the discord and the [telegram channel](https://t.me/thexsecurity)
+- review
+- hunting (a little)
+	- trying to check all the output of the `httpx` tool
+		- there is no interesting endpoint  in here (for now)
+		- what if we going to do this flow?
+			- search on the https://crt.sh/
+				- nothing
+			- dorking (check tomorrow)
+				- google and bing
+				- doing wyaback
+- read some interesting blog post
+	- read in [here](https://medium.com/p/ae9d09c02927)
+		- new paths
+			- `scripts/reports/{license-term-validation}.sh`
+		- for check a found token is active or not!
+			- https://secrets.ninja
+		- notes
+			- I opened `ChatGPT` and asked for advice but don't depends on it
