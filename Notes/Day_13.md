@@ -1,0 +1,6 @@
+- before start, let's check something interesting!
+	- discord server and the write-up script 
+- review
+- hunting
+	- find another domain that is interesting and then again doing some recon on the new domain
+		- specific run the `thexrecon` tool
