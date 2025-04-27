@@ -1,0 +1,13 @@
+- review
+- hunting
+	- dorking
+	- https://bgpview.io/
+	- subdomain discovery on all domains
+	- trying to do dns request by
+		- `dnsx -resp-only -silent`
+	- filter the CDN ips and trying to read all the ASN and so on
+		- use the `mapcidr`
+		- my choose https://github.com/ImAyrix/cut-cdn
+			- installation
+				- `go install github.com/ImAyrix/cut-cdn@latest`
+- talk about the poll about the going live
