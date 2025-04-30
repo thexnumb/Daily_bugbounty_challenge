@@ -1,0 +1,7 @@
+- review
+- hunting
+	- let's check the output of the `cat domain.com.live.txt | httpx -silent | hakrawler ` command
+	- recon phase
+		- `thexrecon`
+		- let's add `amass`
+		- let's add `assetfinder`
