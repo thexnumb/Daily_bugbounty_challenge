@@ -1,2 +1,4 @@
 - review
-- 
+- add the `amass` and `assetfinder` to the `thexrecon`
+	- `assetfinder` added 
+	- `amass` added
