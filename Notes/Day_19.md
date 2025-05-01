@@ -1,0 +1,11 @@
+- review
+- reading writeup
+	- [Linux Privilege Escalation: A Practical Guide for Hackers and Defenders](https://medium.com/@abhimistry06/linux-privilege-escalation-a-practical-guide-for-hackers-and-defenders-52343a0422e7)
+		- **Privilege Escalation** occurs when an attacker gains access to resources or functionality beyond what was initially intended.
+		- **Types**
+			- **Vertical Escalation**
+			- **Horizontal Escalation**
+		- Notes
+			- when the kernel is outdated the **local privilege escalation (LPE)** is possible
+- hunting
+	- work on the result of the `httpx`
