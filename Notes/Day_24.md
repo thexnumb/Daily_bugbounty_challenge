@@ -1,0 +1,9 @@
+- Review and Learning
+	- Review
+		- Interesting Comments
+			- @fk-societyyy^[bro what are your thoughts on AI RED TEAMING  by hacktheboc course ?]
+				- https://academy.hackthebox.com/course/preview/introduction-to-red-teaming-ai
+				- good to see, https://www.youtube.com/watch?v=5Wu0eSjOv0o 
+
+	- Learning
+		- Cache Vulnerabilities (Learn) - Done
