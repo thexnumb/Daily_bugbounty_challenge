@@ -5,4 +5,4 @@
 - Learning
 	- little review
 - Hunting
-	- we going to test the program against the Cache Vulnerabilities
+	- we going to test the program against the Cache 
