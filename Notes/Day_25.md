@@ -2,6 +2,7 @@
 	- Review
 		- Interesting Comments
 			- @cedrickwinner2387^[when did you start learning bugbounty/hacking in general ]
+				- https://blog.voorivex.team/bug-bounty-roadmap-from-scratch
 - Learning
 	- little review
 - Hunting
