@@ -1,4 +1,4 @@
 - Review
-- hunting
-	- continue of hunting.
-	- 
+- instead of the hunting reading some blogs!
+	- https://z00x.medium.com/from-open-redirect-to-full-account-takeover-exploiting-oauth-misconfiguration-35b0d215cf02
+		- https://medium.com/@kushvaibhav/port-scanning-the-foundation-of-discovery-7479dfc7ed83
