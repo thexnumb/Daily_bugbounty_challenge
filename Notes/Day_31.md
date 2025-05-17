@@ -35,4 +35,4 @@
 		5. Resource
 			1. [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
 2. **Hunting**
-	1. 
+	1. doing dorking
